@@ -18,8 +18,7 @@
 
 ```txt
 ProofX    computational experiments for integer dynamics
-Germinal  Lean 4 formalization + proof/counterexample search
-Folio     local document search with cited answers
+OmanX     scholarship compliance guidance for Omani scholars abroad
 Shell     reporting pipelines and operational analytics
 ```
 
@@ -36,10 +35,6 @@ Shell     reporting pipelines and operational analytics
 </p>
 
 ## Metrics
-
-<p align="center">
-  <img src="github-metrics-terminal.svg" alt="GitHub metrics terminal card" width="100%"/>
-</p>
 
 <p align="center">
   <img src="github-metrics-isometric.svg" alt="GitHub isometric contribution calendar" width="100%"/>
