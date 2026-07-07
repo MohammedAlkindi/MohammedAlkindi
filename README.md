@@ -33,13 +33,3 @@ Shell     reporting pipelines and operational analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAlkindi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 </p>
-
-## Metrics
-
-<p align="center">
-  <img src="github-activity-radar.svg" alt="Commits/issues/PRs/reviews activity breakdown" width="480"/>
-</p>
-
----
-
-<p align="center"><em>"Build systems that make reasoning inspectable."</em></p>
