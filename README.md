@@ -37,17 +37,9 @@ Shell     reporting pipelines and operational analytics
 ## Metrics
 
 <p align="center">
-  <img src="github-metrics-isometric.svg" alt="GitHub isometric contribution calendar" width="100%"/>
-</p>
-
-<p align="center">
   <img src="github-activity-radar.svg" alt="Commits/issues/PRs/reviews activity breakdown" width="480"/>
 </p>
 
 ---
 
 <p align="center"><em>"Build systems that make reasoning inspectable."</em></p>
-
-<p align="center">
-  <sub><em>Auto-update daily | powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></em></sub>
-</p>
