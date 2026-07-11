@@ -1,17 +1,17 @@
 <svg width="600" height="330" viewBox="0 0 600 330" xmlns="http://www.w3.org/2000/svg">
   <rect width="600" height="330" fill="#0d1117" rx="6"/>
   <text x="30" y="36" fill="#c9d1d9" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600">Activity overview</text>
-  <text x="30" y="58" fill="#8b949e" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">985 contributions in the last year</text>
+  <text x="30" y="58" fill="#8b949e" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">989 contributions in the last year</text>
 
   <line x1="300" y1="55" x2="300" y2="275" stroke="#30363d" stroke-width="1"/>
   <line x1="190" y1="165" x2="410" y2="165" stroke="#30363d" stroke-width="1"/>
 
-  <polygon points="300,164.6555323590814 300,165 300,178.20459290187893 203.5490605427975,165" fill="#39d35333" stroke="#39d353" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="300,164.65696465696465 300,165 300,178.14968814968816 203.49272349272348,165" fill="#39d35333" stroke="#39d353" stroke-width="2" stroke-linejoin="round"/>
 
-  <circle cx="300" cy="164.6555323590814" r="4" fill="#39d353"/>
+  <circle cx="300" cy="164.65696465696465" r="4" fill="#39d353"/>
   <circle cx="300" cy="165" r="4" fill="#39d353"/>
-  <circle cx="300" cy="178.20459290187893" r="4" fill="#39d353"/>
-  <circle cx="203.5490605427975" cy="165" r="4" fill="#39d353"/>
+  <circle cx="300" cy="178.14968814968816" r="4" fill="#39d353"/>
+  <circle cx="203.49272349272348" cy="165" r="4" fill="#39d353"/>
 
   <text x="300" y="41" fill="#c9d1d9" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle">Code review</text>
   <text x="422" y="169" fill="#c9d1d9" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start">Issues</text>
