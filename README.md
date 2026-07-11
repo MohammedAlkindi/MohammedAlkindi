@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <em>Building tools that make hard ideas easier to test.</em>
+</p>
+
+<p align="center">
   <a href="https://www.alkindix.com">AlkindiX.com</a> |
   <a href="https://www.linkedin.com/in/alkindi-network">LinkedIn</a> |
   <a href="mailto:alkindi.ceo@gmail.com">Email</a>
