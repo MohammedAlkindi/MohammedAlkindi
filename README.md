@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <em>Building tools that make hard ideas easier to test.</em>
+</p>
+
+<p align="center">
   <a href="https://www.alkindix.com">AlkindiX.com</a> |
   <a href="https://www.linkedin.com/in/alkindi-network">LinkedIn</a> |
   <a href="mailto:alkindi.ceo@gmail.com">Email</a>
@@ -33,7 +37,3 @@ Shell     reporting pipelines and operational analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAlkindi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 </p>
-
----
-
-<p align="center"><em>"Build systems that make reasoning inspectable."</em></p>
