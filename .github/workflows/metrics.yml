@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   activity-radar:
-    name: Activity overview radar chart
+    name: Profile metrics charts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
@@ -21,10 +21,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GITHUB_USER: MohammedAlkindi
         run: node .github/scripts/activity-radar.mjs
-      - name: Commit chart
+      - name: Generate github-star-lists.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_USER: MohammedAlkindi
+        run: node .github/scripts/star-lists-languages.mjs
+      - name: Commit charts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-activity-radar.svg
-          git diff --staged --quiet || git commit -m "Update github-activity-radar.svg - [Skip GitHub Action]"
+          git add github-activity-radar.svg github-star-lists.svg
+          git diff --staged --quiet || git commit -m "Update metrics charts - [Skip GitHub Action]"
           git push

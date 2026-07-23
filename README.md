@@ -37,3 +37,9 @@ Shell     reporting pipelines and operational analytics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAlkindi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 </p>
+
+## Star Lists
+
+<p align="center">
+  <img src="github-star-lists.svg" alt="Languages from star lists"/>
+</p>
