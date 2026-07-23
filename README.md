@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.alkindix.com">AlkindiX.com</a> |
-  <a href="https://www.linkedin.com/in/alkindi-network">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/mohammed--alkindi">LinkedIn</a> |
   <a href="mailto:alkindi.ceo@gmail.com">Email</a>
 </p>
 
