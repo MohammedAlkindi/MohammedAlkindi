@@ -1,45 +1,41 @@
-<h1 align="center">Hi, I'm Mohammed Alkindi</h1>
+# Mohammed Alkindi
 
-<p align="center">
-  <em>ProofX founder | CS @ UC San Diego | Data Analytics @ Shell</em>
-</p>
+CS at UC San Diego, data analytics at Shell. I build tools that keep a result
+checkable — where a number came from, what it rests on, and the point where it
+stops being supported.
 
-<p align="center">
-  I build research tools, data systems, and small experiments around math, ML, and reproducibility.
-</p>
+Most of what I ship is deterministic first: compute the evidence, then let a
+model explain it. Never the other way round.
 
-<p align="center">
-  <em>Building tools that make hard ideas easier to test.</em>
-</p>
+## Projects
 
-<p align="center">
-  <a href="https://www.alkindix.com">AlkindiX.com</a> |
-  <a href="https://www.linkedin.com/in/mohammed--alkindi">LinkedIn</a> |
-  <a href="mailto:alkindi.ceo@gmail.com">Email</a>
-</p>
+**[Ridge](https://github.com/MohammedAlkindi/Ridge)** — spreadsheet analysis you
+can audit. Statistics, data-quality grades and correlations are computed locally
+before any AI sees the file; the model can only explain evidence that already
+exists, never produce a number. No API key needed for the deterministic path.
 
-## Working On
+**[ProofX](https://github.com/MohammedAlkindi/ProofX)** — directed search for
+mathematical counterexamples. Every evaluation lands in a replayable ledger, and
+certifiable rows are exported as Lean 4 theorems the kernel actually checks. It
+claims "unrefuted at this budget", never "proved".
 
-```txt
-ProofX    computational experiments for integer dynamics
-OmanX     scholarship compliance guidance for Omani scholars abroad
-Shell     reporting pipelines and operational analytics
-```
+**[Switchyard](https://github.com/MohammedAlkindi/Switchyard)** — run several AI
+coding agents on one repo without collisions. Each agent gets its own git
+worktree and branch, and merge conflicts are predicted before anyone merges.
 
-## Stats
+**[OmanX](https://github.com/MohammedAlkindi/OmanX)** — visa and compliance
+guidance for Omani scholarship students abroad, answered only from approved
+government sources, with the safety-critical routing done by deterministic
+classifiers rather than the model.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohammedAlkindi&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="140"/>
-</p>
+## Now
 
-## Activity
+Getting Ridge from "works" to "someone other than me depends on it" — pilot
+feedback, evidence exports, and the parts of the analysis that still need a
+human to sign off.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAlkindi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
-</p>
+## Contact
 
-## Star Lists
-
-<p align="center">
-  <img src="github-star-lists.svg" alt="Languages from star lists"/>
-</p>
+[alkindix.com](https://www.alkindix.com) ·
+[LinkedIn](https://www.linkedin.com/in/mohammed--alkindi) ·
+alkindi.ceo@gmail.com
